@@ -10,7 +10,7 @@
 
   A fully responsive image slider using vanilla javascript, <br />Responsive for all devices, build using html, css, and javascript.
 
-  <a"https://github.com/shahinth05/IMAGE-SLIDE.git"><strong>➥ Live Demo</strong></a>
+  <a"https://github.com/shahinth05/IMAGE-SLIDE.git/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
