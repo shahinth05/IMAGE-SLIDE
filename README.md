@@ -1,6 +1,4 @@
-#IMAGE SLIDER
-
-<div align="center">
+<img width="944" height="409" alt="IS SS" src="https://github.com/user-attachments/assets/54726fd8-61de-40ae-94ea-a698583215c9" /><div align="center">
   
 
   <br />
@@ -10,14 +8,15 @@
 
   A fully responsive image slider using vanilla javascript, <br />Responsive for all devices, build using html, css, and javascript.
 
-  <a"https://github.com/shahinth05/IMAGE-SLIDE.git/"><strong>➥ Live Demo</strong></a>
+  <a href="https://github.com/shahinth05/IMAGE-SLIDE.git/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
 <br />
 
 ### Demo Screeshots
-![Uploading IS SS.png…]()
+
+<img width="944" height="409" alt="IS SS" src="https://github.com/user-attachments/assets/1f5a462a-a236-47c6-b944-f880b40b6bad" />
 
 
 ### Prerequisites
@@ -30,7 +29,7 @@ Before you begin, ensure you have met the following requirements:
 
 To run **IMAGE SLIDER** locally, run this command on your git bash:
 
-Linux and macOS:
+Linux and macOS:<img width="944" height="409" alt="IS SS" src="https://github.com/user-attachments/assets/a1a6d79c-a0f8-40b8-90b1-2c12b3f40c93" />
 
 ```bash
 sudo git clone https://github.com
@@ -48,4 +47,4 @@ If you want to contact with me you can reach me at.....
 
 ### License
 
-This project is **free to use** and does not contains any license.
+This project is **free to use** and It contains MIT license.
